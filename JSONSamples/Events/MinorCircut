@@ -1,0 +1,74 @@
+{
+	"title" : "Minor Circut",
+	"date" : 754872237.827233,
+	"id" : "BFB4B94A-AE9F-45FF-9E82-4D5C30499BAA",
+	"eventLocation" : "Utah",
+	"description" : "Event hosting fights by local amature fighters. No prize money.",
+	"bouts" : [
+		{
+			"location" : "The Gym ", "fighter2 ": {
+				"id" : "D65F2486-2385-49FF-9F6D-C277EC6666E0",
+				"imageName" : "VonKaiser",
+				"person" : {
+					"age" : 42,
+					"address" : "Moscow",
+					"id" : "800B44CB-350D-4749-9538-12D0ADE161E3",
+					"phone" : "555-555-1234",
+					"email" : "fighter@mail.com",
+					"weightClass" : "Welter Weight",
+					"sex" : "Male",
+					"name" : "Von Kaiser"
+				}
+			},
+			"id" : "5F34AF45-3314-40FE-BFE7-6E7E9249EC51",
+			"fighter1": {
+				"person": {
+					"age":32,
+					"sex" : "Male",
+					"name" : "Glass Joe",
+					"weightClass" : "Fly Weight",
+					"email" : "fighter@mail.com",
+					"address" : "New York",
+					"phone" : "555-555-1234",
+					"id" : "F67FE11A-44A2-441F-9479-B46DA29DAA70"
+				},
+				"imageName" : "GlassJoe",
+				"id" : "BCE7F132-33C4-49CE-9E4B-B75C0B63F1D5"
+			},
+			"date":754872237.827342
+		},
+		{
+			"id" : "BF2A4159-3979-4B2D-9985-E7DF35649CA9",
+			"date":754872237.828272,
+			"location" : "The Gym",
+			"fighter1": {
+				"person":{
+					"weightClass" : "Light Heavy Weight",
+					"phone" : "555-555-1234",
+					"name" : "Piston Hondo",
+					"age": 28,
+					"sex" : "Male",
+					"address" : "Tokyo",
+					"email" : "fighter@mail.com",
+					"id" : "B6E6FA21-7893-4A09-896B-5B4EE294B989"
+				},
+				"id" : "91EDEF46-2781-4F0F-9534-6DC05B9676A7",
+				"imageName" : "PistonHondo"
+			},
+			"fighter2" : {
+				"imageName" : "DonFlamenco",
+				"person" : {
+					"email" : "fighter@mail.com",
+					"sex" : "Male",
+					"age":23,
+					"phone" : "555-555-1234",
+					"id" : "1302C5D5-71FC-429A-B08E-768C41B25349",
+					"address" : "Madrid",
+					"weightClass" : "Middle Weight",
+					"name" : "Don Flamenco"
+				},
+				"id" : "380F0F16-3E83-4778-AEB8-BE7A965E1D61"
+			}
+		}
+	]
+}

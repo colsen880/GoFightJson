@@ -1,0 +1,42 @@
+{
+	"id" : "9F605670-38AB-45B2-BC04-4217E91A40F4",
+	"description" : "This is a fake event to get people talking about the app.",
+	"eventLocation" : "Utah",
+	"date" : 754872237.82831,
+	"bouts" : [
+		{
+			"fighter1" : {
+				"id" : "4114CF8B-D6CF-481B-9D43-8EAA43DE8683",
+				"person": {
+					"address" : "Utah",
+					"phone" : "555-555-1234",
+					"email" : "fighter@mail.com",
+					"id" : "1805C4DA-0B35-49B0-9D5E-8DB3D84F4046",
+					"name" : "Little Mac",
+					"age" : 21,
+					"sex" : "Male",
+					"weightClass": "Bantam Weight"
+				},
+				"imageName" : ""
+			},
+			"fighter2" : {
+				"id" : "27D5BFAC-A1E2-4900-BD19-107E11C7C6BE",
+				"imageName" : "",
+				"person" : {
+					"age" : 22,
+					"id" : "0A54BFE1-D42A-4CA9-B108-4CA1E8CDC7BB",
+					"email" : "fighter2@mail.com",
+					"sex" : "Male",
+					"name": "App User 2",
+					"weightClass" : "Heavy Weight",
+					"address" : "Utah",
+					"phone" : "555-555-1234"
+				}
+			},
+			"id" : "D4AB2696-11BB-40FD-AB5E-548F1FC4CFC6",
+			"location" : "Utah",
+			"date" : 754872237.827094
+		}
+	],
+	"title" : "Mock Event 3"
+}

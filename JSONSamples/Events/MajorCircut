@@ -1,0 +1,72 @@
+{
+	"eventLocation" : "Utah",
+	"date":754872237.828286,
+	"description" : "Major event hosting fights by the biggest names in all of boxing. Major prizes will be awarded to winners. Loosers leave in body bags.",
+	"bouts":[
+		{
+			"location" : "The Big Gym",
+			"fighter2": {
+			"person":{
+				"age":28,
+				"address" : "Deli",
+				"id" : "8AA91591-69C8-452D-B0E3-4C67A4DF23A4",
+				"phone" : "555-555-1234",
+				"email" : "fighter@mail.com",
+				"weightClass" : "Light Weight",
+				"sex" : "Male",
+				"name" : "Great Tiger"
+			},
+			"id" : "DFA52FFF-EB62-4DE8-86DE-CFCD31C2EAF4",
+			"imageName" : "GreatTiger"
+		},
+		"id" : "83626D83-DDB5-458E-9476-3991C86135B7",
+		"fighter1" : {
+			"imageName" : "KingHippo",
+			"person":{
+				"age":37,
+				"sex" : "Male",
+				"name" : "King Hippo",
+				"weightClass" : "Heavy Weight",
+				"email" : "fighter@mail.com",
+				"address" : "Nairobi",
+				"phone" : "555-555-1234",
+				"id" : "42B52992-A5AE-483B-889A-B11820A8736D"
+			},
+			"id" : "0EA56DB3-EC4A-4CD2-8A90-CB279A871A3B"},"date":754872237.828297
+		},
+		{
+			"id" : "B62458B9-0532-4595-89F7-318C1176D457",
+			"date":754872237.828303,
+			"location" : "The Big Gym",
+			"fighter1": {
+					"id" : "48321766-6D3A-41A8-B674-3C705340D430",
+					"imageName" : "BaldBull",
+					"person" : {
+						"weightClass" : "Heavy Weight",
+						"phone" : "555-555-1234",
+						"name" : "Bald Bull",
+						"age":36,
+						"sex" : "Male",
+						"address" : "Chicago",
+						"email" : "fighter@mail.com",
+						"id" : "6DBBDB5F-FF09-43CB-BAF2-95272AA3B8B5"
+					}
+				},
+			"fighter2":{
+				"person":{
+					"email" : "fighter@mail.com",
+					"sex" : "Male",
+					"age":21,
+					"phone" : "555-555-1234",
+					"id" : "EEEF3CA6-CCCE-40DF-A13C-9714E692F57D",
+					"address" : "New York",
+					"weightClass" : "Heavy Weight",
+					"name" : "Mike Tyson"
+				},
+				"imageName" : "MikeTyson","id" : "325028AA-E9D4-42F4-A967-F92515915EA0"
+			}
+		}
+	],
+	"id" : "00268983-BBA2-4CB5-BD61-06883E7544E1",
+	"title" : "Major Circut"
+}
