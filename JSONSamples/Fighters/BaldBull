@@ -1,0 +1,15 @@
+{
+	"fighter" : {
+		"id" : 1,
+		"person": {
+			"name" : "Bald Bull",
+			"age" : 36,
+			"sex" : "male",
+			"phone" : "555-555-1234",
+			"address" : "Chicago",
+			"email" : "bbull@mail.com",
+			"weight_class" : "heavy_weight"
+		},
+		"image_name" : "BaldBull"
+	}
+}

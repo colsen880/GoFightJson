@@ -1,0 +1,15 @@
+{
+	"fighter" : {
+		"id" : 1,
+		"person": {
+			"name" : "Don Flamenco",
+			"age" : 23,
+			"sex" : "male",
+			"phone" : "555-555-1234",
+			"address" : "Madrid",
+			"email" : "dflamenco@mail.com",
+			"weight_class" : "middle_weight"
+		},
+		"image_name" : "DonFlamenco"
+	}
+}

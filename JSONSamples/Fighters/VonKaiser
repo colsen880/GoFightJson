@@ -1,0 +1,15 @@
+{
+	"fighter" : {
+		"id" : 1,
+		"person": {
+			"name" : "Von Kaiser",
+			"age" : 42,
+			"sex" : "male",
+			"phone" : "555-555-1234",
+			"address" : "Moscow",
+			"email" : "vonkaiser@mail.com",
+			"weight_class" : "welter_weight"
+		},
+		"image_name" : "VonKaiser"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"fighter" : {
+		"id" : 1,
+		"person": {
+			"name" : "Great Tiger",
+			"age" : 37,
+			"sex" : "male",
+			"phone" : "555-555-1234",
+			"address" : "Deli",
+			"email" : "gtigeer@mail.com",
+			"weight_class" : "light_weight"
+		},
+		"image_name" : "GreatTiger"
+	}
+}

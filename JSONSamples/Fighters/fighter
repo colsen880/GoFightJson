@@ -1,0 +1,15 @@
+{
+	"fighter" : {
+		"id" : 1,
+		"person": {
+			"name" : "",
+			"age" : 1,
+			"sex" : "male",
+			"phone" : "",
+			"address" : "",
+			"email" : "",
+			"weight_class" : "feather"
+		},
+		"image_name" : ""
+	}
+}
