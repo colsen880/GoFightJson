@@ -39,7 +39,7 @@
 			},
 			"image_name" : "GlassJoe"
 		},
-			"fighter" : {
+		"fighter" : {
 			"id" : 1,
 			"person": {
 				"name" : "Great Tiger",
