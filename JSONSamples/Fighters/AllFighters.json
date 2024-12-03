@@ -1,110 +1,109 @@
 {
 	"fighters" : {
-		[
+		
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "Bald Bull",
+				"age" : 36,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "Chicago",
+				"email" : "bbull@mail.com",
+				"weight_class" : "Heavy Weight"
+			},
+			"image_name" : "BaldBull"
+		},
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "Don Flamenco",
+				"age" : 23,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "Madrid",
+				"email" : "dflamenco@mail.com",
+				"weight_class" : "Middle Weight"
+			},
+			"image_name" : "DonFlamenco"
+		},
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "Glass Joe",
+				"age" : 32,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "New York",
+				"email" : "glassjoe@mail.com",
+				"weight_class" : "Fly Weight"
+			},
+			"image_name" : "GlassJoe"
+		},
 			"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Bald Bull",
-					"age" : 36,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "Chicago",
-					"email" : "bbull@mail.com",
-					"weight_class" : "Heavy Weight"
-				},
-				"image_name" : "BaldBull"
+			"id" : 1,
+			"person": {
+				"name" : "Great Tiger",
+				"age" : 37,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "Deli",
+				"email" : "gtigeer@mail.com",
+				"weight_class" : "Light Weight"
 			},
-			"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Don Flamenco",
-					"age" : 23,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "Madrid",
-					"email" : "dflamenco@mail.com",
-					"weight_class" : "Middle Weight"
-				},
-				"image_name" : "DonFlamenco"
+			"image_name" : "GreatTiger"
+		},
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "King Hippo",
+				"age" : 37,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "Nairobi",
+				"email" : "khippo@mail.com",
+				"weight_class" : "Heavy Weight"
 			},
-			"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Glass Joe",
-					"age" : 32,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "New York",
-					"email" : "glassjoe@mail.com",
-					"weight_class" : "Fly Weight"
-				},
-				"image_name" : "GlassJoe"
+			"image_name" : "KingHippo"
+		}.
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "Mike Tyson",
+				"age" : 21,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "New York",
+				"email" : "mtyson@mail.com",
+				"weight_class" : "Heavy Weight"
 			},
-				"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Great Tiger",
-					"age" : 37,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "Deli",
-					"email" : "gtigeer@mail.com",
-					"weight_class" : "Light Weight"
-				},
-				"image_name" : "GreatTiger"
+			"image_name" : "MikeTyson"
+		},
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "Piston Hondo",
+				"age" : 28,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "Tokyo",
+				"email" : "phondo@mail.com",
+				"weight_class" : "Light Heavy Weight"
 			},
-			"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "King Hippo",
-					"age" : 37,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "Nairobi",
-					"email" : "khippo@mail.com",
-					"weight_class" : "Heavy Weight"
-				},
-				"image_name" : "KingHippo"
-			}.
-				"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Mike Tyson",
-					"age" : 21,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "New York",
-					"email" : "mtyson@mail.com",
-					"weight_class" : "Heavy Weight"
-				},
-				"image_name" : "MikeTyson"
+			"image_name" : "PistonHondo"
+		},
+		"fighter" : {
+			"id" : 1,
+			"person": {
+				"name" : "Von Kaiser",
+				"age" : 42,
+				"sex" : "male",
+				"phone" : "555-555-1234",
+				"address" : "Moscow",
+				"email" : "vonkaiser@mail.com",
+				"weight_class" : "Welter Weight"
 			},
-				"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Piston Hondo",
-					"age" : 28,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "Tokyo",
-					"email" : "phondo@mail.com",
-					"weight_class" : "Light Heavy Weight"
-				},
-				"image_name" : "PistonHondo"
-			},
-				"fighter" : {
-				"id" : 1,
-				"person": {
-					"name" : "Von Kaiser",
-					"age" : 42,
-					"sex" : "male",
-					"phone" : "555-555-1234",
-					"address" : "Moscow",
-					"email" : "vonkaiser@mail.com",
-					"weight_class" : "Welter Weight"
-				},
-				"image_name" : "VonKaiser"
-			}
-		]
+			"image_name" : "VonKaiser"
+		}
 	}
 }
