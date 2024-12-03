@@ -1,0 +1,16 @@
+{
+	"user" : {
+		"userID" : 1,
+		"accountType": "promoterFighter",
+		"person": {
+			"name" : "Little Mac",
+			"age" : 21,
+			"sex" : "male",
+			"phone" : "555-555-1234",
+			"address" : "Lehi",
+			"email" : "lmac@mail.com",
+			"weight_class" : "bantam_weight"
+		},
+		"image_name" : "LittleMac"
+	}
+}
