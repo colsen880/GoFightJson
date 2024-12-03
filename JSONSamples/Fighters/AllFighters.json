@@ -64,7 +64,7 @@
 				"weight_class" : "Heavy Weight"
 			},
 			"image_name" : "KingHippo"
-		}.
+		},
 		"fighter" : {
 			"id" : 1,
 			"person": {
