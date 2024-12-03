@@ -1,6 +1,6 @@
 {
-	"fighters" : {
-		[
+	"fighters" : [
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Bald Bull",
@@ -104,5 +104,5 @@
 			},
 			"image_name" : "VonKaiser"
 		}
-	}
+	]
 }
