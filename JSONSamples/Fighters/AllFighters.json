@@ -1,6 +1,6 @@
 {
-	"fighters" : {
-		"fighter" : {
+	"fighters" : { [
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Bald Bull",
@@ -13,7 +13,7 @@
 			},
 			"image_name" : "BaldBull"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Don Flamenco",
@@ -26,7 +26,7 @@
 			},
 			"image_name" : "DonFlamenco"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Glass Joe",
@@ -39,7 +39,7 @@
 			},
 			"image_name" : "GlassJoe"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Great Tiger",
@@ -52,7 +52,7 @@
 			},
 			"image_name" : "GreatTiger"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "King Hippo",
@@ -65,7 +65,7 @@
 			},
 			"image_name" : "KingHippo"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Mike Tyson",
@@ -78,7 +78,7 @@
 			},
 			"image_name" : "MikeTyson"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Piston Hondo",
@@ -91,7 +91,7 @@
 			},
 			"image_name" : "PistonHondo"
 		},
-		"fighter" : {
+		{
 			"id" : 1,
 			"person": {
 				"name" : "Von Kaiser",
@@ -104,5 +104,5 @@
 			},
 			"image_name" : "VonKaiser"
 		}
-	}
+	]}
 }
