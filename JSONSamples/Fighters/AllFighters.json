@@ -1,6 +1,6 @@
 {
 	"fighters" : {
-		{
+		[
 			"id" : 1,
 			"person": {
 				"name" : "Bald Bull",
@@ -12,7 +12,7 @@
 				"weight_class" : "Heavy Weight"
 			},
 			"image_name" : "BaldBull"
-		},
+		],
 		{
 			"id" : 1,
 			"person": {
