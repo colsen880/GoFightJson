@@ -1,0 +1,192 @@
+[
+	{
+		"date":755022648.688529,
+		"title":"Minor Circut",
+		"id":"72C89655-A702-4031-BE72-3B8284B92C70",
+		"eventLocation":"Utah",
+		"description":"Event hosting fights by local amature fighters. No prize money.",
+		"bouts":[
+			{
+				"fighter1":{
+					"id":"8D7996DB-FAA7-4CE3-8DD4-A5F85F3BFD78",
+					"imageName":"GlassJoe",
+					"person":{
+						"id":"B6E7638D-3A82-42EA-84BF-A67517D5F705",
+						"phone":"555-555-1234",
+						"address":"New York",
+						"sex":"Male",
+						"age":32,
+						"name":"Glass Joe",
+						"email":"fighter@mail.com",
+						"weightClass":"Fly Weight"
+					}
+				},
+				"date":755022648.685004,
+				"id":"D78B5358-838F-4C53-8A75-496F9649CB01",
+				"location":"The Gym",
+				"fighter2":{
+					"imageName":"VonKaiser",
+					"id":"DAAAC3E6-74FE-4718-8A5C-CACD9DDE488F",
+					"person":{"weightClass":"Welter Weight",
+						"address":"Moscow",
+						"email":"fighter@mail.com",
+						"phone":"555-555-1234",
+						"name":"Von Kaiser",
+						"sex":"Male",
+						"id":"23CDF3D1-A6A6-4E88-9741-711D5F5ECF41",
+						"age":42
+					}
+				}
+			},
+			{
+				"fighter2":{
+					"person":{
+						"phone":"555-555-1234",
+						"id":"AE396BE0-3F36-4734-B5AB-FFBCAEB58D5C",
+						"email":"fighter@mail.com",
+						"address":"Madrid",
+						"weightClass":"Middle Weight",
+						"age":23,
+						"name":"Don Flamenco",
+						"sex":"Male"
+					},
+					"id":"CDD71586-342C-44D0-BBBB-91A898C43ED6",
+					"imageName":"DonFlamenco"
+				},
+				"date":755022648.685502,
+				"fighter1":{
+					"imageName":"PistonHondo",
+					"person":{
+						"phone":"555-555-1234",
+						"age":28,
+						"address":"Tokyo",
+						"name":"Piston Hondo",
+						"email":"fighter@mail.com",
+						"sex":"Male",
+						"weightClass":"Light Heavy Weight",
+						"id":"A6D3C085-B771-4479-A020-7562FEAC6788"
+					},
+					"id":"3B0DCB0B-0D10-4C78-BAA8-030FA8F8316C"
+				},
+				"location":"The Gym",
+				"id":"F2E46632-16D1-4594-B577-49D703A552BE"
+			}
+		]
+	},
+	{
+		"id":"D6DC695C-1EE4-4DDD-A6A2-61A25E13A5CD",
+		"date":755022648.688531,
+		"eventLocation":"Utah",
+		"title":"Major Circut",
+		"bouts":[
+			{
+				"fighter1":{
+					"person":{
+						"email":"fighter@mail.com",
+						"age":37,
+						"id":"1799D5A3-1975-414D-ACF5-3285D13EE0C9",
+						"sex":"Male",
+						"address":"Nairobi",
+						"phone":"555-555-1234",
+						"weightClass":"Heavy Weight",
+						"name":"King Hippo"
+					},
+					"imageName":"KingHippo",
+					"id":"672C2D3F-4379-481E-8ABE-9A8E9DD0F6ED"
+				},
+				"fighter2":{
+					"imageName":"GreatTiger",
+					"id":"4EE8EA6B-B0B8-416D-B58E-CF8F6E7D4760",
+					"person":{
+						"sex":"Male",
+						"phone":"555-555-1234",
+						"address":"Deli",
+						"age":28,
+						"name":"Great Tiger",
+						"email":"fighter@mail.com",
+						"weightClass":"Light Weight",
+						"id":"09310C4B-23C9-4B55-974C-141937CA6391"
+					}
+				},
+				"location":"The Big Gym",
+				"date":755022648.688533,
+				"id":"714FF91A-380A-4753-A462-28C3EDF0F5C2"
+			},
+			{
+				"id":"88DB5651-A5AE-4A6A-87DB-0D46F8D99192",
+				"date":755022648.688536,
+				"location":"The Big Gym",
+				"fighter1":{
+					"id":"4141A3B5-D230-48BB-8252-B621A9350B1A",
+					"person":{
+						"weightClass":"Heavy Weight",
+						"name":"Bald Bull",
+						"age":36,
+						"email":"fighter@mail.com",
+						"phone":"555-555-1234",
+						"sex":"Male",
+						"address":"Chicago",
+						"id":"45E0BA71-E63E-4C1B-AD0F-48C236AC9C93"
+					},
+					"imageName":"BaldBull"
+				},
+				"fighter2":{
+					"id":"C895A7BE-E1C6-46B3-86F1-B611B7D9D536",
+					"person":{
+						"name":"Mike Tyson",
+						"phone":"555-555-1234",
+						"id":"E48E5A4E-2858-4985-956E-5AB7190DF121",
+						"age":21,
+						"sex":"Male",
+						"weightClass":"Heavy Weight",
+						"email":"fighter@mail.com",
+						"address":"New York"
+					},
+					"imageName":"MikeTyson"
+				}
+			}
+		],
+		"description":"Major event hosting fights by the biggest names in all of boxing. Major prizes will be awarded to winners. Loosers leave in body bags."
+	},
+	{
+		"description":"This is a fake event to get people talking about the app.",
+		"eventLocation":"Utah",
+		"bouts":[
+			{
+				"id":"0B684917-A88E-43B3-A3F1-99636DBBEAE1",
+				"location":"Utah",
+				"date":755022648.6768,
+				"fighter1":{
+					"imageName":"LittleMac",
+					"person":{
+						"age":21,
+						"phone":"555-555-1234",							
+						"name":"Little Mac",
+						"address":"Utah",
+						"id":"6B71C5DC-AF46-440D-9506-FF2F46B206E0",
+						"email":"lmac@mail.com",
+						"sex":"Male",
+						"weightClass":"Bantam Weight"
+					},
+					"id":"86F4C683-3C13-4BA3-A6EA-EA2A9EFB4BED"
+				},
+				"fighter2":{
+					"person":{
+						"email":"fighter2@mail.com",
+						"weightClass":"Heavy Weight",
+						"age":22,"phone":"555-555-1234",
+						"id":"1098AB42-A922-47A1-8886-D74D0ECA4BDC",
+						"sex":"Male",
+						"address":"Utah",
+						"name":"App User 2"
+					},
+					"imageName":"person",
+					"id":"3689BD9C-A916-43B9-BD2B-191F31C7D970"
+				}
+			}
+		],
+		"date":755022648.688539,
+		"id":"75A04333-5913-4DC4-BBE7-A4A18F77C103",
+		"title":"Mock Event 3"
+	}
+]
