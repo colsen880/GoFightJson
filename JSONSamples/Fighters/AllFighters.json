@@ -1,107 +1,114 @@
 [
 	{
-		"id" : 1,
-		"person": {
-			"name" : "Bald Bull",
-			"age" : 36,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "Chicago",
-			"email" : "bbull@mail.com",
-			"weight_class" : "Heavy Weight"
-		},
-		"image_name" : "BaldBull"
+		"imageName":"DonFlamenco",
+			"person":{
+				"name":"Don Flamenco",
+				"age":23,
+				"phone":"555-555-1234",
+				"sex":"Male",
+				"email":"fighter@mail.com",
+				"weightClass":"Middle Weight",
+				"id":"DB6A098B-2359-44F6-AC5F-852F0A3FD21B",
+				"address":"Madrid"
+			},
+		"id":"A0886560-2965-40AE-B1F7-1BB125BF7AE8"
 	},
 	{
-		"id" : 1,
-		"person": {
-			"name" : "Don Flamenco",
-			"age" : 23,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "Madrid",
-			"email" : "dflamenco@mail.com",
-			"weight_class" : "Middle Weight"
+		"person":{
+			"weightClass":"Heavy Weight",
+			"age":21,
+			"phone":"555-555-1234"
+			"email":"fighter@mail.com",
+			"address":"New York",
+			"name":"Mike Tyson",
+			"sex":"Male",
+			"id":"EF9C7625-616C-428D-B92A-C880A41D8B44"
 		},
-		"image_name" : "DonFlamenco"
+		"imageName":"MikeTyson",
+		"id":"729C1DED-3D53-4FE7-ACF0-765E13CA09B3"
 	},
 	{
-		"id" : 1,
-		"person": {
-			"name" : "Glass Joe",
-			"age" : 32,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "New York",
-			"email" : "glassjoe@mail.com",
-			"weight_class" : "Fly Weight"
-		},
-		"image_name" : "GlassJoe"
+		"id":"961A208F-9732-465F-B793-2508AE073D15",
+		"imageName":"KingHippo",
+		"person":{
+			"address":"Nairobi",
+			"sex":"Male",
+			"email":"fighter@mail.com",
+			"age":37,
+			"phone":"555-555-1234",
+			"weightClass":"Heavy Weight",
+			"name":"King Hippo",
+			"id":"C57188AD-5178-45EF-9C98-8C947E459ACF"
+		}
 	},
 	{
-		"id" : 1,
-		"person": {
-			"name" : "Great Tiger",
-			"age" : 37,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "Deli",
-			"email" : "gtigeer@mail.com",
-			"weight_class" : "Light Weight"
-		},
-		"image_name" : "GreatTiger"
+		"imageName":"PistonHondo",
+		"id":"E3DD791C-36C0-406D-B60D-B9183FA81D66",
+		"person":{
+			"sex":"Male",
+			"age":28,
+			"weightClass":"Light Heavy Weight",
+			"address":"Tokyo",
+			"email":"fighter@mail.com",
+			"name":"Piston Hondo",
+			"phone":"555-555-1234",
+			"id":"DDDEE638-EE6A-424E-B695-DC5889028FE4"
+		}
 	},
 	{
-		"id" : 1,
-		"person": {
-			"name" : "King Hippo",
-			"age" : 37,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "Nairobi",
-			"email" : "khippo@mail.com",
-			"weight_class" : "Heavy Weight"
+  		"id":"610F922A-B1A9-411E-9B43-BD8093145BF0",
+  		"person":{
+	  		"id":"23F4B545-2570-4FD8-A679-DA890ACFB015",
+			"email":"fighter@mail.com",
+  			"sex":"Male",
+  			"name":"Von Kaiser",
+  			"address":"Moscow",
+  			"phone":"555-555-1234",
+  			"age":42,
+  			"weightClass":"Welter Weight"
+  		},
+  		"imageName":"VonKaiser"
+  	},
+  	{
+  		"imageName":"GlassJoe",
+  		"id":"93E2A5B1-CB61-4740-90B0-AE11B81C459F",
+  		"person":{
+  			 "sex":"Male",
+ 	 		 "age":32,
+  			 "address":"New York",
+	  		 "weightClass":"Fly Weight",
+  			 "id":"1A468DF6-0B01-4D0C-A50C-A328C15C29A6",
+  			 "name":"Glass Joe",
+  			 "email":"fighter@mail.com",
+  			 "phone":"555-555-1234"
+  		}
+  	},
+  	{
+  		"id":"195D7B2A-9FA1-445A-94C9-0E392F2C957E",
+  		"imageName":"GreatTiger",
+  		"person":{
+  			"sex":"Male",
+  			"address":"Deli",
+  			"id":"178181D8-2FF5-4335-8BA4-C7EE291E0DFD",
+  			"name":"Great Tiger",
+	  			"email":"fighter@mail.com",
+	  			"age":28,
+	  			"weightClass":"Light Weight",
+	  			"phone":"555-555-1234"
+	  		}
+	  	},
+	  	{
+	  		"person":{
+	  			"name":"Bald Bull",
+	  			"phone":"555-555-1234",
+	  			"address":"Chicago",
+	  			"sex":"Male",
+	  			"weightClass":"Heavy Weight",
+	  			"age":36,
+				"email":"fighter@mail.com",
+			"id":"9BA5DD71-811B-4890-B623-24F5378E4E7B"
 		},
-		"image_name" : "KingHippo"
-	},
-	{
-		"id" : 1,
-		"person": {
-			"name" : "Mike Tyson",
-			"age" : 21,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "New York",
-			"email" : "mtyson@mail.com",
-			"weight_class" : "Heavy Weight"
-		},
-		"image_name" : "MikeTyson"
-	},
-	{
-		"id" : 1,
-		"person": {
-			"name" : "Piston Hondo",
-			"age" : 28,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "Tokyo",
-			"email" : "phondo@mail.com",
-			"weight_class" : "Light Heavy Weight"
-		},
-		"image_name" : "PistonHondo"
-	},
-	{
-		"id" : 1,
-		"person": {
-			"name" : "Von Kaiser",
-			"age" : 42,
-			"sex" : "male",
-			"phone" : "555-555-1234",
-			"address" : "Moscow",
-			"email" : "vonkaiser@mail.com",
-			"weight_class" : "Welter Weight"
-		},
-		"image_name" : "VonKaiser"
+		"imageName":"BaldBull",
+		"id":"11ADBEEC-B521-49B6-926E-45AABC06F559"
 	}
 ]
-
